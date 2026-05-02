@@ -5,9 +5,7 @@
   <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
-- 🔭 I’m currently working on <a href="https://github.com/Egor12344321/friendlivery" target="_blank">Friendlivery platform</a>
-
-- 🌱 I’m currently learning Reactive Programming
+- 🔭 I’m currently working on <a href="https://github.com/Egor12344321/web-app_arctic-team" target="_blank">Platform for the analysis and visualization of metrics</a>
 
 - 💬 Ask me about **Spring**
 
